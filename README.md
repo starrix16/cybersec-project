@@ -2,7 +2,7 @@ This project implements a machine learning workflow using multiple gradient-boos
 
 Contents
 Library Setup: Installation and import of required libraries, including CatBoost, LightGBM, and River for model training and data streaming.
-Data Loading and Preprocessing: Steps to load and prepare data for training and testing.
+Data Loading and Preprocessing: Steps to load and prepare data for training and testing. 
 Model Training: Training procedures for gradient-boosting models using LightGBM, CatBoost, and XGBoost.
 Evaluation and Metrics: Metrics like accuracy, precision, recall, F1-score, and confusion matrix for model performance evaluation.
 Analysis and Visualization: Visualization of results and analysis of model performance using tools like Matplotlib and Seaborn.
